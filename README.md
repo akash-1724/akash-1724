@@ -7,30 +7,27 @@
 
 # Hi there, I'm Akash 👋
 
-I'm a **[Your Job Title, e.g., Frontend Developer, Full-Stack Engineer]** passionate about **[a brief one-liner about your passion, e.g., building beautiful user interfaces, solving complex problems with code]**.
+I'm a **Good Boy** passionate about **Data**.
 
-- 🔭 I’m currently working on **[Name of a Project or a technology you're learning]**.
-- 🌱 I’m currently learning **[Another technology or concept]**.
-- 💬 Ask me about **[Topics you're skilled in, e.g., React, TypeScript, and Design Systems]**.
-- 📫 How to reach me: **[Your Email Address]** or connect on LinkedIn!
-- 😄 Pronouns: **[Your Pronouns, e.g., He/Him]**
+- 🔭 I’m currently working on **Cupcake**.
+- 🌱 I’m currently learning **to be better**.
+- 💬 Ask me about **nothing, leave me alone**.
+- 📫 How to reach me: **akashabhi1724@gmail.com** or connect on LinkedIn!
+- 😄 Pronouns: **Batman, Superman, Akash, Settan**
 
 ---
 
 ### 🤝 Connect with Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
+  <a href="https://linkedin.com/in/akashani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/[your-twitter-username]" target="_blank">
+  <a href="https://x.com/akash_ani95273" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://discord.com/users/[your-discord-id]" target="_blank">
+  <a href="https://discord.com/users/akash_ani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.youtube.com/c/[your-youtube-channel]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
 </div>
 
