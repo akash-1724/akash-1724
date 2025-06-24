@@ -1,10 +1,6 @@
 <!-- 
   The snake animation is a great eye-catcher at the top!
 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akash-1724/akash-1724/output/snake.svg" alt="Snake animation" />
-</div>
-
 # Hi there, I'm Akash 👋
 
 I'm a **Good Boy** passionate about **Data**.
@@ -64,18 +60,6 @@ I'm a **Good Boy** passionate about **Data**.
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akash-1724/akash-1724/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
----
-
-### ✍️ My Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<div align="center">
-  <a href="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4">
-    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts" />
-  </a>
-</div>
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
