@@ -3,7 +3,7 @@
 -->
 # Hi there, I'm Akash 👋
 
-I'm a **Good Boy** passionate about **Data**.
+I'm passionate about **Data**.
 
 - 🔭 I’m currently working on **Cupcake**.
 - 🌱 I’m currently learning **to be better**.
