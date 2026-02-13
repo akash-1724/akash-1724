@@ -5,11 +5,10 @@
 
 I'm passionate about **Data**.
 
-- 🔭 I’m currently working on **Cupcake**.
-- 🌱 I’m currently learning **to be better**.
-- 💬 Ask me about **nothing, leave me alone**.
+- 🔭 I’m currently working on **Something**.
+- 🌱 I’m currently learning **Something**.
+- 💬 Ask me about **something**.
 - 📫 How to reach me: **akashabhi1724@gmail.com** or connect on LinkedIn!
-- 😄 Pronouns: **Batman, Superman, Akash, Settan**
 
 ---
 
