@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Data Enthusiast • Developer • Future Data Scientist</h3>
+<h3 align="center">Data Enthusiast • Developer </h3>
 
 ---
 
