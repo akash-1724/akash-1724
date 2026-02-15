@@ -1,67 +1,99 @@
-<!-- 
-  The snake animation is a great eye-catcher at the top!
--->
-# Hi there, I'm Akash 👋
-
-I'm passionate about **Data**.
-
-- 🔭 I’m currently working on **Something**.
-- 🌱 I’m currently learning **Something**.
-- 💬 Ask me about **something**.
-- 📫 How to reach me: **akashabhi1724@gmail.com** or connect on LinkedIn!
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Akash</h1>
+<h3 align="center">Data Enthusiast • Developer • Future Data Scientist</h3>
 
 ---
 
-### 🤝 Connect with Me
+## 🚀 About Me
 
-<div align="left">
-  <a href="https://linkedin.com/in/akashani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/akash_ani95273" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://discord.com/users/akash_ani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-</div>
+- 📊 Passionate about **Data, Machine Learning, and Problem Solving**
+- 🧠 Currently learning **Advanced Data Analysis & ML Workflows**
+- 💻 Building projects around **APIs, Data Pipelines, and Predictions**
+- 🎯 Goal: Become a **Production-level Data Scientist**
 
 ---
 
-### 💻 My Tech Stack
+## 🌐 Connect With Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
-  <!-- Add any other technologies you use! -->
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/akashani" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+</a>
+<a href="https://x.com/akash_ani95273" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
+</a>
+<a href="https://discord.com/users/akash_ani" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40"/>
+</a>
+</p>
 
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-1724&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-1724&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-1724/akash-1724/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-1724/akash-1724/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akash-1724/akash-1724/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+📫 **Email:** akashabhi1724@gmail.com  
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/akash-1724/count.svg?" alt="Profile visitor counter" />
-</div>
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+</p>
+
+### 📊 Data & ML
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+</p>
+
+### 🌐 Development
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</p>
+
+---
+
+## 📌 Featured Interests
+
+- 📈 Stock Market Data Analysis  
+- 🤖 Machine Learning Models  
+- 🔗 API Based Data Systems  
+- 📊 Data Visualization  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akash-1724&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-1724&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+## 👾 Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/akash-1724/akash-1724/output/pacman-contribution-graph.svg"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://profile-counter.glitch.me/akash-1724/count.svg"/>
+</p>
+
+---
+
+⭐ *Always curious. Always building.*
