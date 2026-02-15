@@ -25,18 +25,17 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming
-- Python
-- JavaScript
-- TypeScript
+- Python ( learning )
+- Java
+- C
 
-### 📊 Data & ML
+### 📊 Data & ML ( learning )
 - Pandas
 - NumPy
 - TensorFlow
 
 ### 🌐 Development
-- React
-- Node.js
+- React ( learning )
 
 ### 🧰 Tools
 - Git
@@ -47,10 +46,10 @@
 
 ## 📌 Featured Interests
 
-- 📈 Stock Market Data Analysis  
+- 📈 Data Analysis  
 - 🤖 Machine Learning Models  
 - 🔗 API-Based Data Systems  
-- 📊 Data Visualization  
+- 📊 Data Visualization
 
 ---
 
