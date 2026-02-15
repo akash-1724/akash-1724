@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Data Enthusiast • Developer </h3>
+<h3 align="center">Data Enthusiast • Developer • Future Data Scientist</h3>
 
 ---
 
@@ -25,41 +25,32 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-</p>
+- Python
+- JavaScript
+- TypeScript
 
 ### 📊 Data & ML
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-</p>
+- Pandas
+- NumPy
+- TensorFlow
 
 ### 🌐 Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-</p>
+- React
+- Node.js
 
 ### 🧰 Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-</p>
+- Git
+- Docker
+- Linux
 
 ---
 
 ## 📌 Featured Interests
 
-- 📈 Data Analysis  
+- 📈 Stock Market Data Analysis  
 - 🤖 Machine Learning Models  
-- 🔗 API Based Data Systems  
-- 📊 Data Visualization
-- Geopolitics
+- 🔗 API-Based Data Systems  
+- 📊 Data Visualization  
 
 ---
 
